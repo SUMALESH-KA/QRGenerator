@@ -1,2 +1,2 @@
 # QRGenerator
-this ids my simple project node js project
+this is my simple project node js project
